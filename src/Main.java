@@ -23,7 +23,7 @@ public class Main {
             process(opcao);
         } while (opcao != 0);
 
-        System.out.println("\nEspero ter ajudado, até logo " + nome);
+        System.out.println("\nEspero ter ajudado, até mais " + nome);
 
     }
 
